@@ -1,12 +1,16 @@
-+ Termux B-Bomber Installation👇
+## Termux B-Bomber Installation👇
 
 + **pkg update**
 + **pkg upgrade**
 + **pkg install git**
+  > Install Python if you haven't already installed Python and if you have Python installed on Termux then there is no need to install Python again.
   **pkg install python**
-  **pip install requests**
+  
+ + **pip install requests**
   
  + **git clone https://github.com/FaceLessOfficialNew/B-BOMBER/tree/main**
+
+> cd is important 
 
 + **cd B-BOMBER**
 + **sh Setup.sh**
@@ -23,4 +27,6 @@
   <button>visit Our Website </button>
 
 </a></div>
+
+> Read it:We are only providing tool for learning purposes, we are not responsible if anyone does something wrong with our provided tools❤️
 
