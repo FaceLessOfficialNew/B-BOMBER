@@ -6,4 +6,8 @@
   **pkg install python**
   **pip install requests**
   
-  **git clone **
+  **git clone https://github.com/FaceLessOfficialNew/B-BOMBER/tree/main**
+
+**cd B-BOMBER**
+**sh Setup.sh**
+**python B-BOMBER.py**
