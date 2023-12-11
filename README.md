@@ -8,7 +8,7 @@
   
  + **pip install requests**
   
- + **git clone https://github.com/FaceLessOfficialNew/B-BOMBER/tree/main**
+ + **git clone https://github.com/FaceLessOfficialNew/B-BOMBER.git**
 
 > cd is important 
 
